@@ -8,7 +8,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -92,10 +91,14 @@ Example commands:
   git clone https://github.com/Rudy-Menekam/School-library.git
 ```
 -
-<!-- 
+
 ### Install
 
-Install this project with: -->
+Install this project with:
+
+```sh
+bundle install
+```
 
 <!--
 Example command:
@@ -106,17 +109,14 @@ Example command:
 ```
 --->
 
-<!-- ### Usage
+### Usage
 
-To run the project, execute the following command: -->
-
-<!--
-Example command:
+To run the project, execute the following command:
 
 ```sh
-  rails server
+  ruby main.rb
 ```
---->
+-
 <!-- 
 ### Run tests
 
